@@ -5,11 +5,14 @@ API para gestión de estudiantes universitarios con Node.js y Express.
 
 Instalacion:
 
--. Clonar el repositorio
--. Instalar dependencias (body-parser, cors, express, sqlite y sqlite3)
--. Instalar dependencias para desarrollador (jest, nodemon y supertest)
+- Clonar el repositorio
+
+- Instalar dependencias (body-parser, cors, express, sqlite y sqlite3)
+
+- Instalar dependencias para desarrollador (jest, nodemon y supertest)
 
 npm install (body-parser, cors, express, sqlite y sqlite3)
+
 npm install (jest, nodemon y supertest) -D
 
 3.Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
@@ -101,13 +104,19 @@ Descripción: Desactivación
 
 Para el desarrollo del proyecto se utilizó la IA de Gemini en las siguientes tareas:
 
--. Apoyo contra errores y bugs.
--. Análisis de lógica del código.
--. Consejos para mejorar el codigo.
+- Apoyo contra errores y bugs.
+
+- Análisis de lógica del código.
+
+- Consejos para mejorar el codigo.
+
 
 8. Estándares de codificación utilizados
 
-Variables y funciones: CamelCase
-Clases: PascalCase
-Constantes: UPPER_SNAKE_CASE
-Archivos: kebab-case
+- Variables y funciones: CamelCase
+
+- Clases: PascalCase
+
+- Constantes: UPPER_SNAKE_CASE
+  
+- Archivos: kebab-case
