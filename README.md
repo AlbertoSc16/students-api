@@ -5,9 +5,9 @@ API para gestión de estudiantes universitarios con Node.js y Express.
 
 Instalacion:
 
-1.Clonar el repositorio
-2.Instalar dependencias (body-parser, cors, express, sqlite y sqlite3)
-3.Instalar dependencias para desarrollador (jest, nodemon y supertest)
+-. Clonar el repositorio
+-. Instalar dependencias (body-parser, cors, express, sqlite y sqlite3)
+-. Instalar dependencias para desarrollador (jest, nodemon y supertest)
 
 npm install (body-parser, cors, express, sqlite y sqlite3)
 npm install (jest, nodemon y supertest) -D
