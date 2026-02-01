@@ -11,10 +11,6 @@ Instalacion:
 
 - Instalar dependencias para desarrollador (jest, nodemon y supertest)
 
-npm install (body-parser, cors, express, sqlite y sqlite3)
-
-npm install (jest, nodemon y supertest) -D
-
 3.Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
 
 node src/database/init-db.js
