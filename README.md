@@ -11,19 +11,19 @@ Instalacion:
 
 - Instalar dependencias para desarrollador (jest, nodemon y supertest)
 
-3.Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
+1.Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
 
 node src/database/init-db.js
 
-4.Cómo ejecutar la API
+2. Cómo ejecutar la API
 
 npm run dev
 
-5.Ejecutar pruebas
+3. Ejecutar pruebas
 
 npm test
 
-6. Ejemplos de uso de cada endpoints
+4. Ejemplos de uso de cada endpoints
 
 GET      /students        
 Descripcion: Obtiene la lista de todos los estudiantes.
@@ -96,23 +96,24 @@ Descripción: Actualización parcial
 DELETE  /students/:id  
 Descripción: Desactivación
 
-7. Uso de IA
+
+5. Uso de IA
 
 Para el desarrollo del proyecto se utilizó la IA de Gemini en las siguientes tareas:
 
-- Apoyo contra errores y bugs.
+ - Apoyo contra errores y bugs.
 
-- Análisis de lógica del código.
+ - Análisis de lógica del código.
 
-- Consejos para mejorar el codigo.
+ - Consejos para mejorar el codigo.
 
 
-8. Estándares de codificación utilizados
+6. Estándares de codificación utilizados
 
-- Variables y funciones: CamelCase
+ - Variables y funciones: CamelCase
 
-- Clases: PascalCase
+ - Clases: PascalCase
 
-- Constantes: UPPER_SNAKE_CASE
+ - Constantes: UPPER_SNAKE_CASE
   
-- Archivos: kebab-case
+ - Archivos: kebab-case
