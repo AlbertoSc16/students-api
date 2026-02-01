@@ -27,7 +27,7 @@ Instalacion:
 
       npm i supertest -D
 
-1.Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
+1. Iniciar la base de datos: Ejecuta el script para crear la tabla de estudiantes y el archivo database.db
 
     node src/database/init-db.js
 
